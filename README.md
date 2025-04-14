@@ -10,7 +10,6 @@ The main goal of this project is to build and evaluate models that can distingui
 ## 📂 Project Structure
 
 ```
-├── data/                   # Raw and cleaned datasets
 ├── models/                 # Trained machine learning models
 ├── docs and figures/       # Research paper and all figures related
 ├── results/                # Evaluation metrics and output reports
