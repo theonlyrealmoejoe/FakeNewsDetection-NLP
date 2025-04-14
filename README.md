@@ -80,4 +80,4 @@ Data Scientist | NLP Researcher
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or email at your-email@example.com for collaboration or questions.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/moe-torabi-95096271/) or email at mohammad.torabi@outlook.com for collaboration or questions.
