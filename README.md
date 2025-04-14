@@ -67,7 +67,7 @@ Data was gathered from six global news websites and merged with labeled fake/rea
 ## 📚 Related Paper
 
 This project is part of a research paper titled:  
-**"Fake News Detection Using NLP and Machine Learning: A Multi-Source Study"**  
+**"Thematic Categorization of Fake News in Online News Outlets"**  
 *Submitted to the International Journal of Information Management Data Insights (2025).*
 
 ## 👤 Author
