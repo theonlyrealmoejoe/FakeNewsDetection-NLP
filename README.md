@@ -12,8 +12,7 @@ The main goal of this project is to build and evaluate models that can distingui
 ```
 ├── data/                   # Raw and cleaned datasets
 ├── models/                 # Trained machine learning models
-├── notebooks/              # Jupyter notebooks for experimentation
-├── src/                    # Source code for preprocessing, training, etc.
+├── docs and figures/       # Research paper and all figures related
 ├── results/                # Evaluation metrics and output reports
 ├── README.md               # Project documentation
 └── requirements.txt        # List of dependencies
